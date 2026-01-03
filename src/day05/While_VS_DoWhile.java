@@ -7,7 +7,7 @@ public class While_VS_DoWhile {
 
 		// While:
 		System.out.println("While Loop:");
-		int a=1;
+		int a=-1;
 		while(a<=5) {
 			System.out.println(a);
 			a++;
@@ -16,7 +16,7 @@ public class While_VS_DoWhile {
 		// Do while:
 		System.out.println("Do While Loop:");
 
-		int i=1;
+		int i=-1;
 		do {
 			System.out.println(i);
 			i++;
