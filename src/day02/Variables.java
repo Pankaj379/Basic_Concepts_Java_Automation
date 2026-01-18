@@ -33,8 +33,9 @@ public class Variables {
 		
 		
 		/*
-		 * // Approach02 int a,b,c;// This approach is for same data types. a=100;
-		 * b=200; c=300; System.out.println(a);
+		 * // Approach02 int a,b,c;// This approach is for same data types. 
+		 *a=100; b=200; c=300; 
+		 *System.out.println(a);
 		 */
 		 
 		/*

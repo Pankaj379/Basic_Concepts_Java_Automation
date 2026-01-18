@@ -65,7 +65,7 @@ public class DataTypes {
 
 		//	String bl = false; // Invalid
 
-		//	String bl = "false"; // Valid
+		//	String bl = "false"; // inValid
 
 
 
